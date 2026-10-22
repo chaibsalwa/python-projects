@@ -1,30 +1,25 @@
-# Salwa Chaib - Python Developer
+# 🐍 Salwa Chaib - Python Projects
 
-Computer Engineering Graduate | Ex-Teacher | Python Developer
-📍 Morocco | Languages: Arabic, French, English
-
-## About Me
-Passionate Software Engineer with a background in Computer Engineering and teaching. 
-I love creating clear, well-structured solutions to complex problems.
+Welcome to my Python projects portfolio!
 
 ## Projects
 
-### 1. Student Performance Analysis
-Data analysis project using Pandas and Matplotlib to analyze and visualize student scores.
-- Technologies: Python, Pandas, Matplotlib
-- Skills: Data Analysis, Visualization
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 01 | To-Do List App | Simple task manager | Python |
+| 02 | Password Generator | Secure password generation | Python, random |
+| 03 | Student Analyzer | Student performance analysis | Python, Pandas |
 
-### 2. Algorithmic Problem Solver
-Efficient implementations of common coding interview problems with clean code and tests.
-- Technologies: Python
-- Skills: Algorithms, Data Structures, Problem Solving
+## About Me
+Software Engineer | Python Developer | Computer Engineering Graduate
+- 📍 Kenitra, Morocco (Open to Remote)
+- 💻 Focus: Python, Data Analysis, Algorithms
+- 🔗 GitHub: github.com/chaibsalwa
 
-## Skills
-- Python (Advanced), Pandas, Data Analysis
-- Algorithms & Data Structures
-- Problem Creation & Teaching
-- Languages: Arabic (Native), French (Fluent), English (Fluent)
+## How to Run Any Project
+```bash
+cd 01-todo-list-app
+python todo.py
+```
 
-## Contact
-- GitHub: github.com/SalwaChaib
-- LinkedIn: linkedin.com/in/salwa-chaib
+Built with ❤️ for Shipd quests
